@@ -34,9 +34,9 @@ The data is preprocessed using a **scikit-learn ColumnTransformer pipeline**:
 - **Algorithm:** `RandomForestRegressor`
 - **Training:** Uses the processed training data from the pipeline
 - **Evaluation Metrics:**
-  - Root Mean Squared Error (RMSE)
-  - Mean Absolute Error (MAE)
-  - R² Score
+  - Root Mean Squared Error (RMSE) :  3.035
+  - Mean Absolute Error (MAE) : 1.925
+  - R² Score : 0.846
 - **Visualizations:** Scatter plot of actual vs predicted, residual plots, and histograms comparing distributions
 
 ---
